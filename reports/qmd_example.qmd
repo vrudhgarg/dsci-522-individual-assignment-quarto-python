@@ -13,6 +13,7 @@ project:
 ---
 
 ```{python}
+#| echo: false
 import pandas as pd
 from IPython.display import Markdown, display
 from tabulate import tabulate
